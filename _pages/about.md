@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a Professor of Computer Science at Florida International University where I direct the Systems Research Laboratory. My areas of expertise include operating systems, distributed systems, storage systems, computer security, and real-time systems in application domains such as web services, databases, cloud computing, and mobile computing.  I am a recipient of the NSF CAREER award, the Department of Energy Early CAREER Principal Investigator (ECPI) award, an Intel URO Award, the IBM Faculty Award, Seagate Technology research award, and Faculty Fellowship awards from NetApp. My University [webpage](https://users.cs.fiu.edu/~raju/WWW) has more information about my research and teaching activities. My professional experience can be found in my [LinkedIn profile](https://www.linkedin.com/in/raju-rangaswami-7b3b6849/)
+Hi! I am a Professor of Computer Science at Florida International University where I direct the Systems Research Laboratory. My areas of expertise include operating systems, distributed systems, storage systems, computer security, and real-time systems in application domains such as web services, databases, cloud computing, and mobile computing.  I am a recipient of the NSF CAREER award, the Department of Energy Early CAREER Principal Investigator (ECPI) award, an Intel URO Award, the IBM Faculty Award, Seagate Technology research award, and Faculty Fellowship awards from NetApp. My University [webpage](https://users.cs.fiu.edu/~raju/WWW) has more information about my research and teaching activities. My professional experience can be found in my [LinkedIn profile](https://www.linkedin.com/in/raju-rangaswami-7b3b6849/). Here's my full [CV](/cv/).
 
 Background and Education
 ------
