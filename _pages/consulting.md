@@ -8,7 +8,7 @@ author_profile: true
 
 I have served as a technical and research consultant to the government and industry. Here is a list of past experiences.  If you are interested in engaging me as a consultant, you may reach me via phone or email as indicated [here](/contact/).
 
-* **Funding Panel Reviewer**, *US National Science Foundation*, CSR:Medium program, 2022.
+* **Funding Panel Reviewer**, *US National Science Foundation*, CSR:Medium program, 2022. (This role involves evaluating funding proposals submitted by academic researchers, writing reports evaluating the merits of the proposed project, participating in funding panel discussions, and making recommendations on funding projects.)
 
 * **Funding Panel Reviewer**, *US National Science Foundation*, CCF:Small program, 2020.
 
