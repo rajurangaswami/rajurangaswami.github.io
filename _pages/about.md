@@ -17,7 +17,7 @@ I received M.S. and Ph.D. degrees in Computer Science from the [University of Ca
 
 Consulting
 ======
-I have served as a technical and research consultant to the government and industry. If you are interested in engaging me as a consultant, you may reach me via phone or email.
+I have served as a technical and research consultant to the government and industry. You can find more information [here](/consulting/). If you are interested in engaging me as a consultant, you may reach me via phone or email.
 
 Contact
 ------
