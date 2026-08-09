@@ -9,7 +9,9 @@ author_profile: true
 I have served as a technical and research consultant to the government and industry. Here is a list of past experiences.  If you are interested in engaging me as a consultant, you may reach me via phone or email as indicated [here](/contact/).
 
 
-* **Testifying Expert**, *Becker & Poliakoff, PA*, in the area of Software Applications, 2023.
+* **Testifying Expert**, *VPP Law Firm*, in the area of Software Applications, 2024-current.
+
+* **Testifying Expert**, *Becker & Poliakoff, PA*, in the area of Software Applications, 2023-24.
 
 * **Funding Panel Reviewer**, *US National Science Foundation*, CSR:Medium program, 2022. (This role involves evaluating funding proposals submitted by academic researchers, writing reports evaluating the merits of the proposed project, participating in funding panel discussions, and making recommendations on funding projects.)
 
