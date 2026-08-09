@@ -8,7 +8,8 @@ author_profile: true
 
 I have served as a technical and research consultant to the government and industry. Here is a list of past experiences.  If you are interested in engaging me as a consultant, you may reach me via phone or email as indicated [here](/contact/).
 
-
+* **Consulting Expert**, *VPP Law Firm*, in the area of Software Forensics, 2026-current.
+*
 * **Testifying Expert**, *VPP Law Firm*, in the area of Software Applications, 2024-current.
 
 * **Testifying Expert**, *Becker & Poliakoff, PA*, in the area of Software Applications, 2023-24.
